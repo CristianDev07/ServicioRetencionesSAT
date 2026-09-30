@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+logs/
+*.log
+*.zip
+*.xml
+*.cer
+*.key
